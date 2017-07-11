@@ -1,0 +1,86 @@
+{
+  "ES": {
+    "menu": {
+      "0": {
+        "seccion": "habitaciones",
+        "titulo_seccion": "habitaciones",
+        "submenu": {
+          "0": {
+            "imagen": "images/habitacion_doble.jpg",
+            "titulo": "Habitación Doble",
+            "seccion": "hab_doble"
+          },
+          "1": {
+            "imagen": "images/habitacion_doble_sup.jpg",
+            "titulo": "Habitación Doble Superior",
+            "seccion": "hab_doble_sup"
+          },
+		  "2": {
+            "imagen": "images/habitacion_triple.jpg",
+            "titulo": "Habitación Triple",
+            "seccion": "hab_triple"
+          }
+        }
+      },
+      "1": {
+        "seccion": "galeria",
+        "titulo_seccion": "galeria",
+        "submenu": {}
+      },
+      "2": {
+        "seccion": "promociones",
+        "titulo_seccion": "promociones",
+        "submenu": {
+          "0": {
+            "imagen": "images/promo_sierra.png",
+            "titulo": "Promoción Sierra Nevada",
+            "seccion": "promo_sierra"
+          },
+          "1": {
+			"imagen": "images/promo_alhambra.png",
+            "titulo": "Promoción Alhambra",
+            "seccion": "promo_alhambra"
+          },
+		  "2":{
+			"imagen": "images/habitacion_doble_sup.jpg",
+            "titulo": "Promoción 2 Noches",
+            "seccion": "promo_noches"
+		  }
+        }
+      },
+      "3": {
+        "seccion": "opiniones",
+        "titulo_seccion": "opiniones",
+        "submenu": {}
+      },
+      "4": {
+        "seccion": "localizacion",
+        "titulo_seccion": "localización",
+        "submenu": {}
+      },
+      "5": {
+        "seccion": "contacto",
+        "titulo_seccion": "contacto",
+        "submenu": {}
+      }
+    },
+    "titulos": {
+      "menu":"MENÚ",
+      "contacto":{
+        "titulo":"CONTACTO",
+        "pais":"España",
+        "telefono":"Telefono",
+        "fax":"Fax"
+      },
+      "localizacion":"LOCALIZACIÓN"
+    },
+    "titulosContact": {
+      "enviarmensaje":"Enviar",
+      "nombre":"Nombre",
+      "apellidos":"Apellidos",
+      "email":"E-mail",
+      "telefono":"Telefono",
+      "mensaje":"Mensaje"
+    }
+  }
+}

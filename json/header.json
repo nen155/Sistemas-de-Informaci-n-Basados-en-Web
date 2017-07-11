@@ -1,0 +1,225 @@
+{
+	"ES": {
+		"index": {
+			"title": "Hotel Plaza Nueva",
+			"descripcion": "Reserva habitación en el Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"habitaciones": {
+			"title": "Habitaciones",
+			"descripcion": "Habitaciones del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Habitaciones, Habitacion, Doble, Triple, Doble Superior",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"galeria": {
+			"title": "Galeria",
+			"descripcion": "Galeria de imágenes del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Galeria, Imagenes, Imagen, Foto, Fotos",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"promociones": {
+			"title": "Promociones",
+			"descripcion": "Promociones del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Promocion, Promociones, Alhambra, Sierra, Sierra Nevada",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"opiniones": {
+			"title": "Opiniones",
+			"descripcion": "Opiniones sobre el Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Opinion, Opiniones, Comentario, Comentarios",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"localizacion": {
+			"title": "Localización",
+			"descripcion": "Localización del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Localizacion, Ubicacion",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"contacto": {
+			"title": "Contacto",
+			"descripcion": "Contacto del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Contacto, Contactar, Telefono, Tlf, Email, E-mail",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"promo_alhambra": {
+			"title": "Promocion Alhambra",
+			"descripcion": "Promoción de la Alhambra del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Promocion, Alhambra, Visita Alhambra",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"promo_sierra": {
+			"title": "Promocion Sierra Nevada",
+			"descripcion": "Promoción de Sierra Nevada del Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Promocion, Sierra, Sierra Nevada",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"promo_noches": {
+			"title": "Promocion 2 Noches",
+			"descripcion": "Promoción de 2 noches en el Hotel Plaza Nueva en el centro de Granada",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Promocion, 2 Noches, Dos",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"hab_doble": {
+			"title": "Habitación Doble",
+			"descripcion": "La habitación doble de nuestro Hotel Plaza Nueva está llena de confort",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Habitacion, Doble, Habitacion Doble",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"hab_doble_sup": {
+			"title": "Habitación Doble Superior",
+			"descripcion": "La habitación doble superior de nuestro Hotel Plaza Nueva está llena de confort",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Habitacion, Doble, Habitacion Doble",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		},
+		"hab_triple": {
+			"title": "Habitación Triple",
+			"descripcion": "La habitación triple de nuestro Hotel Plaza Nueva está llena de confort",
+			"keywords": "Hotel, Granada, Plaza Nueva, Hotel Plaza Nueva Granada, Habitacion, triple, Habitacion triple",
+			"index_title": "Ir a la home",
+			"mis_reservas": "MIS RESERVAS",
+			"variablesFormReserva": {
+				"reservaAhora": "Reserva Ahora",
+				"fecha": "Fecha",
+				"habitaciones": "Habitaciones",
+				"aldutos": "Adultos",
+				"ninos": "Niños",
+				"addHabitaciones": "Añadir habitaciones",
+				"buscar": "Buscar",
+				"mejorPrecio": "Mejor precio garantizado"
+			}
+		}
+	}
+}

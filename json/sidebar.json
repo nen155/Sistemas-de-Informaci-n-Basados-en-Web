@@ -1,0 +1,38 @@
+{
+  "ES":{
+    "habitaciones":{
+      "titulo":"Habitaciones",
+      "habs":{
+        "0":{
+          "titulo":"Habitacion Doble",
+          "link":"?seccion=hab_doble"
+        },
+        "1":{
+          "titulo":"Habitacion Doble Superior",
+          "link":"?seccion=hab_doble_sup"
+        },
+        "2":{
+          "titulo":"Habitacion Triple",
+          "link":"?seccion=hab_triple"
+        }
+      }
+    },
+    "promociones":{
+      "titulo":"Promociones",
+      "promos":{
+        "0":{
+          "titulo":"Promoción Sierra Nevada",
+          "link":"?seccion=promo_sierra"
+        },
+        "1":{
+          "titulo":"Promoción Alhambra",
+          "link":"?seccion=promo_alhambra"
+        },
+        "2":{
+          "titulo":"Promoción 2 noches",
+          "link":"?seccion=promo_noches"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "ES": {
+    "descripcion":{
+      "titulo":"HOTEL PLAZA NUEVA",
+      "contenido":"<p><strong>El Hotel Plaza Nueva está situado en el pleno centro monumental, comercial y administrativo de Granada, a 10 minutos de la Alhambra.</strong></p><p>El hotel ofrece una amplia y eficiente gama de servicios extra que satisfarán cualquier necesidad que le surja, reservas a shows de flamenco o visitas turísticas por la ciudad y la Alhambra.</p><p>El hotel le ofrece 25 amplias y luminosas habitaciones repartidas sobre 3 plantas con ascensor.</p><p>Cada planta del hotel y cada habitación poseen un nombre y encanto propio. Este nombre es una representación de un evento importante en la vida e historia de Granada. No tienen tarjetas magnéticas para abrir las puertas de las habitaciones, preferimos la originalidad que proporciona una tradicional </p>",
+      "imagen":"images/hotel-plaza-nueva-granada-17-fachada.jpg"
+    },
+    "servicios":{
+      "titulo":"SERVICIOS",
+      "lista":{
+        "0":{"descripcion":"Recepción 24 horas"},
+        "1":{"descripcion":"Conexión Wi-fi a internet"},
+        "2":{"descripcion":"Bar-Cafetería"},
+        "3":{"descripcion":"Consigna de equipajes"},
+        "4":{"descripcion":"Aire acondicionado"},
+        "5":{"descripcion":"Parking cubierto"},
+        "6":{"descripcion":"Accesos adaptados"},
+        "7":{"descripcion":"Servicio de habitaciones"}
+      }
+    },
+    "habitacion":{
+      "titulo":"HABITACIONES",
+      "boton":"RESERVAR",
+      "habits":{
+        "0":{
+          "titulo":"HABITACIÓN DOBLE",
+          "descripcion":"<P>En nuestras <b>habitaciones standard</b> disfrutará de todo el equipamiento y comodidades que su estancia en Granada merece.</P>",
+          "link":"?seccion=hab_doble",
+          "img":"images/habitacion_doble.jpg"
+        },
+        "1":{
+          "titulo":"HABITACIÓN DOBLE SUPERIOR",
+          "descripcion":"<p>Disfrute de una <b>magnifica vista de Plaza Nueva</b> y el centro de Granada desde nuestras habitaciones superiores.</p>",
+          "link":"?seccion=hab_doble_sup",
+          "img":"images/habitacion_doble_sup.jpg"
+        },
+        "2":{
+          "titulo":"HABITACIÓN TRIPLE",
+          "descripcion":"<p>En nuestras <b>habitaciones triples</b> podrá disfrutar de sus vacaciones en familia o con amigos en el centro de Granada.</p>",
+          "link":"?seccion=hab_triple",
+          "img":"images/habitacion_triple.jpg"
+        }
+      }
+    },
+    "promo":{
+      "titulo":"PROMOCIONES",
+      "boton":"CONSÍGUELA",
+      "promos":{
+        "0":{
+          "titulo":"HABITACIÓN DOBLE + 2 FORFAITS",
+          "descripcion":"<p>Sierra Nevada es la estación de esquí situada en el punto más sureño de la península. </p><p>Goza de fantásticas instalaciones, kilómetros de pistas y vistas panorómicas combinadas con los mayores placeres de la cocina granadina.</p>",
+          "link":"?seccion=promo_sierra",
+          "img":"images/promo_sierra.png",
+          "num":"2",
+          "tiem":"NOCHES"
+        },
+        "1":{
+          "titulo":"HABITACIÓN DOBLE + VISITA GUIADA A LA ALHAMBRA",
+          "descripcion":"<p>Descubrirá con nostros la única Ciudad Medieval Musulmana mejor conservada del mundo, la Alhambra.</p><p>Visitando sus palacios, Mexuar, Comares, Leones, Generalife; paseando por sus patios, de los Arrayenes, la Reja, la Acequia, la Sultana; y disfrutando de sus jardines, de Partal, de la Medina y por suspuesto del Generalife con sus gracioso juegos de agua, y su laberintico diseño.</p>",
+          "link":"?seccion=promo_alhambra",
+          "img":"images/promo_alhambra.png",
+          "num":"2",
+          "tiem":"NOCHES"
+        },
+        "2":{
+          "titulo":"OFERTA DOS NOCHES",
+          "descripcion":"<p>Disfrute de un 10% de descuento en estancias de un mínimo de dos noches.</p>",
+          "link":"?seccion=promo_noches",
+          "img":"images/habitacion_doble_sup.jpg",
+          "num":"2",
+          "tiem":"NOCHES"
+        }
+      }
+    },
+    "galeria": {"titulo":"GALERIA"},
+    "opinion":{
+       "titulo":"OPINIONES",
+       "opiniones":{
+         "0":{
+           "nombre":"Alberto",
+           "pais":"Spain",
+           "fecha":"24/02/2016",
+           "comentario":"Repetiré. Para ir al juzgado es cómodo. ",
+           "limpieza":"Limpieza: 8/10",
+           "atencion":"Atención del personal: 9/10",
+           "confort":"Confort habitaciones: 7/10",
+           "ubicacion":"Ubicación: 10/10",
+           "instalaciones":"Instalaciones: 7/10",
+           "desayuno":"Desayuno: 7/10",
+           "total":"TOTAL: 8"
+         },
+         "1":{
+           "nombre":"Eva Maria",
+           "pais":"Spain",
+           "fecha":"21/02/2016",
+           "comentario":"Todo estupendo y muy acogedor... y el desayuno super completo... lo recomiendo 100%.",
+           "limpieza":"Limpieza: 10/10",
+           "atencion":"Atención del personal: 10/10",
+           "confort":"Confort habitaciones: 10/10",
+           "ubicacion":"Ubicación: 10/10",
+           "instalaciones":"Instalaciones: 10/10",
+           "desayuno":"Desayuno: 10/10",
+           "total":"TOTAL: 10"
+         },
+         "2":{
+           "nombre":"Patricia Celina",
+           "pais":"Argentina",
+           "fecha":"29/01/2016",
+           "comentario":"Ubicado en un lugar excepcional. Cómodo, lindo. Pasé dos días lindísimos.",
+           "limpieza":"Limpieza: 9/10",
+           "atencion":"Atención del personal: 9/10",
+           "confort":"Confort habitaciones: 9/10",
+           "ubicacion":"Ubicación: 10/10",
+           "instalaciones":"Instalaciones: 9/10",
+           "desayuno":"Desayuno: 9/10",
+           "total":"TOTAL: 9.2"
+         }
+       }
+    },
+    "localizacion":{
+      "titulo":"LOCALIZACIÓN",
+      "calle":"Imprenta, nº 2",
+      "ciudad":"Granada",
+      "pais":"España",
+      "telefono":"Telefono",
+      "fax":"Fax"
+    }
+  }
+}
